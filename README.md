@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am technology enthusiastic person, willing to learn about various fields and tech involved in it. Currently exploring MERN Stack, Flutter and Cloud. 
+I am technology enthusiastic person, willing to learn about various fields and tech involved in it. Currently exploring Salesforce, MERN Stack, Flutter and Cloud. 
 
 
 ## 🌐 Socials:
