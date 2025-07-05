@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
-  <li>I'm Krish, a Software Engineer working in various domains like full stack, and backend engineering.</li>
+  <li>I’m Krish — a full-stack dev who thinks backend is where the real magic (and the bugs) happen.</li>
 </ul>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishgabani&show_icons=true&rank_icon=github&locale=en" alt="krishgabani" />
